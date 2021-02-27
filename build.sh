@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t test:1 .
+docker build -t test:1 . 
